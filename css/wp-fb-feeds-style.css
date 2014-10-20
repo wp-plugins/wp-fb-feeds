@@ -1,4 +1,6 @@
-
+#plugin-title {
+  background-image: url(icon-272x250.png);
+}
 .fb-feed {
     color: #333;
     font-family: arial;
