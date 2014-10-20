@@ -15,9 +15,10 @@ The WP FB Feeds allow you to get all the public posts of your facebook page.
 The WP FB Feeds allow you to get all the public posts of your facebook page. when you install it you need to go into your widget section and there you will find a widget called WP-Facebook Feeds. just drag in the widget area where you wan to show that feeds and enter the required information.
 
 == Installation ==
-Upload \"wp-fb-feeds\" to the /wp-content/plugins/ directory
-Activate the plugin through the \'Plugins\' menu in WordPress
-Place the \"wp-fb-feeds\" Widget on your sidebar.or in other places as per your requirements. 
+1. Download and Upload "wp-fb-feeds" into the "plugins" directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+3. After activation go to the widget section and you will see the WP Facebook Feeds.
+4. Enjoy!!!
 
 
 == Screenshots ==
