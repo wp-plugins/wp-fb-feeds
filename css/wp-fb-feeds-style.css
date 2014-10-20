@@ -1,0 +1,27 @@
+
+.fb-feed {
+    color: #333;
+    font-family: arial;
+    font-size: 14px;
+}
+.fb-update {
+    border-bottom: 1px solid #999;
+}
+.fb-update h2, .fb-feed h2{
+    font-size: 20px;
+    margin: 10px 0 15px;
+	font-family: arial;
+}
+.fb-update > p {
+    line-height: 20px;
+    margin: 0 0 10px;
+	font-family: arial;
+}
+.fb-update a {
+    text-decoration: none;
+	font-family: arial;
+	font-size: 14px;
+}
+.fb-update:last-of-type {
+    border: medium none;
+}
