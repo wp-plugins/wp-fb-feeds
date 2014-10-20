@@ -22,6 +22,7 @@ The WP FB Feeds allow you to get all the public posts of your facebook page. whe
 
 
 == Screenshots ==
+
 1. follow the link to show the demo http://me.hopeadjustor.com
 
 
