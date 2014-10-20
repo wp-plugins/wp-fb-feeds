@@ -1,5 +1,5 @@
 === wp-fb-feeds ===
-Contributors: WordPress.org 
+Contributors: Mritunjay Datt Tiwari, WordPress.org 
 Tags: Facebook Feed Widget, Facebook Feeds, fb Feeds, social Feeds
 Donate link: http://hopeadjustor.com/
 Requires at least: 3.0
