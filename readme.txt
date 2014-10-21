@@ -40,8 +40,9 @@ there is no question for now.
 
 == Changelog ==
 = 0.1 =
-* Initial version lunched.
+= 0.2 availabel with like and share button
 
 == Upgrade Notice ==
 = 0.1 =
+= 0.2 =
 This is the first version launched so you need not to Upgrade.
