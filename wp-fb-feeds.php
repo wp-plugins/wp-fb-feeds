@@ -201,6 +201,7 @@ function widget($args, $instance) {
 				 echo "<p>" . preg_replace('/\s+?(\S+)?$/', '', substr($post['message'], 0, $length)) . "</p>";
 			}
 			 echo "<p><a href=\"" . $post['link'] . "\" target=\"_blank\">View photo &rarr;</a></p>";
+			 echo '<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=35&amp;appId='.$appid.'" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px;" allowTransparency="true"></iframe>';
        }
         echo "</div>"; // close fb-update div
                     
