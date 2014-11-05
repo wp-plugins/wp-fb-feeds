@@ -182,6 +182,7 @@ function widget($args, $instance) {
 				
 				echo "<p>" .preg_replace('/\s+?(\S+)?$/', '', substr($post['message'], 0, $length)). "</p>";
 				echo "<p><a href=\"https://www.facebook.com/".$pageid ."?hc_location=timeline\" target=\"_blank\">View More &rarr;</a></p>";
+				 echo '<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Ffacebook.com'.$post['message'].'&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=35&amp;appId='.$appid.'" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px;" allowTransparency="true"></iframe>';
 			}
         }
                         
