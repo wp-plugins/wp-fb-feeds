@@ -3,7 +3,7 @@ Contributors: Mritunjay Datt Tiwari, WordPress.org
 Tags: Facebook Feed Widget, Facebook Feeds, fb Feeds, social Feeds
 Donate link: http://hopeadjustor.com/
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 0.1
 License: GPLv2 or Later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
